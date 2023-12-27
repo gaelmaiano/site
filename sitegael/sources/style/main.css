@@ -1,0 +1,78 @@
+
+body
+{
+    background-color:#151515;
+    background-image:linear-gradient(to left, #0000ff, black);
+    color: #f6f6fc;
+}
+
+.menu {
+    background-image:linear-gradient(to left, #AADDFF, #CCCCCC);
+    border: 5pt;
+    padding: 15pt;
+    color: darkslategrey;
+    border-radius: 25pt;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+
+.coordonnees ul {
+    list-style: none;
+}
+
+.entete-cv {
+    margin-top: 30pt;
+}
+
+
+.exp-pro ul {
+    list-style: none;
+}
+
+.exp-pro li {
+    margin-bottom: 10pt;
+}
+
+.exp-pro h2 {
+    padding-bottom: 15pt;
+}
+
+.exp-pro-timespan {
+     font-style: italic;
+}
+
+.exp-pro-title {
+     font-weight: bold;
+}
+
+.exp-pro-details {
+    font-size: smaller;
+}
+
+.exp-pro-details li {
+    list-style-type: circle;
+    margin-bottom: 5pt;
+}
+.formation  ul {
+    list-style: none;
+}
+.divers ul {list-style: none}
+
+.photo img {
+    width: 200pt;
+}
+
+.accroche {
+    font-size: 200%;
+}
+
+.skillset ul {
+    list-style: none;
+}
+
+.skillset {
+    padding-left: 30pt;
+}
+.debug {
+    background-color: coral;
+}
